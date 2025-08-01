@@ -7,11 +7,11 @@
         subtitle on modules listing or apps.openerp.com""",
 
     'description': """
-        Long description of module's purpose
+        Long description of module's purpose 1
     """,
 
-    'author': "Jhonnyjose1998@gmail.com",
-    'website': "https://www.yusuke1998.com",
+    'author': "Yusuke1998",
+    'website': "https://www.przjhonny.site",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/16.0/odoo/addons/base/data/ir_module_category_data.xml
