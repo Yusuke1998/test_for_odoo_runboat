@@ -10,4 +10,4 @@
 ### - Crear un contenedor de postgresql
 ### - Crear un contenedor de nginx
 
-etc, etc, etc.
+etc, etc, etc, etc.
